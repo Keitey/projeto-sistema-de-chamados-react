@@ -30,8 +30,7 @@ Este projeto feito em Reactjs para criação de chamados permite que o usuário:
 
 ## Veja o projeto completo:
 
-https://projeto-sistema.netlify.app/
-
+<a href="https://projeto-sistema.netlify.app/" target="_blank">Clique aqui</a>
 
 ## Feito Com:
 
