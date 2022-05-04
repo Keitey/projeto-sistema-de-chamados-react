@@ -29,6 +29,9 @@ Este projeto feito em Reactjs para criação de chamados permite que o usuário:
 * Modal;
 
 ## Veja o projeto completo:
+<strong>Para logar:</strong>
+email: teste@teste.com
+senha: 123123
 
 https://projeto-sistema.netlify.app/
 
