@@ -30,8 +30,9 @@ Este projeto feito em Reactjs para criação de chamados permite que o usuário:
 
 ## Veja o projeto completo:
 <strong>Para logar:</strong>
-email: teste@teste.com
-senha: 123123
+
+<p>email: teste@teste.com</p>
+<p>senha: 123123</p>
 
 https://projeto-sistema.netlify.app/
 
